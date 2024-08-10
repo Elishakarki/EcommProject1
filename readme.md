@@ -57,6 +57,12 @@ I enjoy making software so much! Please, if you see any issues make them known!
 ### Update Profile Page
 ![screenshot](readme/update.jpg)
 
+### List of Courses Pages
+![image](https://github.com/user-attachments/assets/adc1114b-c4f4-4a11-a1a4-34b03aa4f1ae)
+### Video page
+![image](https://github.com/user-attachments/assets/25e4cdc4-d560-43b9-9033-c1b3e99a8f02)
+
+
 ## License
 
 This software is under an MIT License. Which allows full use to edit, distribute, or sell this code.
