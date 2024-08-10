@@ -1,9 +1,7 @@
 
 <h1 style="color:blue;">PHP MySQL User Signup Login System</h1>
 
-A login and signup form using HTML, PHP, and MySQL. This form allows users to register and login. 
-All information is stored in a MySQL database. After successful login the user is redirected to their dashboard.
-I enjoy making software so much! Please, if you see any issues make them known!
+Developed an e-commerce platform similar to Udemy, named "LearnTech," which enables users to purchase and enroll in online courses. The platform was built using PHP and XAMPP, providing a robust and scalable solution for online education.
 
 ## Technologies Used
 - `HTML`
